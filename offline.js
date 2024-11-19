@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1731964196,
+	"version": 1732038453,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -51,7 +51,10 @@
 		"images/colisonang2-sheet0.png",
 		"images/btn_frente-sheet0.png",
 		"images/btn_voltar-sheet0.png",
+		"images/btn_pular-sheet0.png",
 		"images/btn_atirar-sheet0.png",
+		"images/sprite4-sheet0.png",
+		"images/sprite5-sheet0.png",
 		"media/boss battle (candidata a musica do chefe).ogg",
 		"media/jungle (usar esse game start).m4a",
 		"media/jungle (usar esse game start).ogg",
