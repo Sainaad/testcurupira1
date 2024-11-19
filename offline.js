@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1732056964,
+	"version": 1732058736,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -20,7 +20,6 @@
 		"images/barra_vida-sheet1.png",
 		"images/inimigo_melee_simples-sheet0.png",
 		"images/inimigo_melee_simples-sheet1.png",
-		"images/inimigo_melee_simples-sheet2.png",
 		"images/inimigo_ranged-sheet0.png",
 		"images/projetil-sheet0.png",
 		"images/flecha-sheet0.png",
@@ -29,10 +28,10 @@
 		"images/espinhos_2-sheet0.png",
 		"images/espinhos_3-sheet0.png",
 		"images/inimigo_melee_intermediario-sheet0.png",
+		"images/inimigo_melee_intermediario-sheet1.png",
 		"images/double_jump-sheet0.png",
 		"images/inimigo_melee_chefe-sheet0.png",
 		"images/inimigo_melee_chefe-sheet1.png",
-		"images/inimigo_melee_chefe-sheet2.png",
 		"images/pause_menu-sheet0.png",
 		"images/resume_buttom-sheet0.png",
 		"images/restart_buttom-sheet0.png",
